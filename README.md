@@ -1,0 +1,10 @@
+#TDK Türkçe Kelimeler Listesi
+
+  ##TekHarfsizHarfOkunussuz.txt
+    TDK'deki tek harf bulunduran satırlar ve harf okunuşu olan satırlar(ce,fe,ge) çıkarılmıştır.  
+
+  ##TekHarfsizHarfOkunussuzElementsiz.txt
+    TDK'deki tek harf bulunduran satırlar, harf okunuşu olan satırlar(ce,fe,ge) ve element isimleri(Fe,Zn,Tm) çıkarılmıştır.
+
+  ##TekHarfsizHarfOkunussuzElementsizTekKelime.txt
+    TDK'deki tek harf bulunduran satırlar, harf okunuşu olan satırlar(ce,fe,ge), element isimleri(Fe,Zn,Tm) ve birden fazla kelime bulunduran satırlar çıkarılmıştır.
